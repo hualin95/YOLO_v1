@@ -21,8 +21,7 @@ To use this implementation, you have to download the weights files from [here](h
 
 # Sample
 ## detection of an image
-![]()
+![](https://github.com/hualin95/YOLO_v1/blob/master/data/output/image/test_out.jpg)
 
-[The Starry Night](https://www.moma.org/learn/moma_learning/vincent-van-gogh-the-starry-night-1889) is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh in June 1889.
 ## detection of a video
-![]() 
+[Demo](http://v.youku.com/v_show/id_XMzQ0NDIyNzA5Mg==.html?spm=a2h3j.8428770.3416059.1) 
